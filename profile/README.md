@@ -51,14 +51,16 @@
 
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/cardano_dark.png"><img align="left" alt='cardano' width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/cardano_light.png"></picture>](https://cexplorer.io/pool/pool1q6lzp5x6tqg04chsxakupgq6x829nsx2dk5w8h043fnajm8d3uj)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/axelar_light.png"></picture>
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/islamic_coin_dark.png"><img alt='islamic coin' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/islamic_coin_light.png"></picture>](https://app.haqq.network/staking/validator/haqqvaloper1zenrae0nqd0mclna6an3059z66tlrzar5xmkzp)
+
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/axelar_dark.png"><img alt='axelar' width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/axelar_light.png"></picture>](https://axelarscan.io/validator/axelarvaloper1e89wchnra6shn5lr475xv6j85y3zga4ylc8aet)
 ___
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/testnet_dark.png"><img alt="Testnets" src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/testnet_light.png"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/masa_dark.png"><img alt='masa' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/masa_light.png"></picture>
 
-[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/islamic_coin_dark.png"><img alt='islamic coin' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/islamic_coin_light.png"></picture>](https://haqq.explorers.guru/validator/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/islamic_coin_dark.png"><img alt='islamic coin' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/islamic_coin_light.png"></picture>](https://pingpub.explorer.testedge2.haqq.network/haqq/staking/haqqvaloper1vzqw946xv3lgsvdyw08pkgkqhuennjv48rqdev)
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/svetek/.github/main/profile/images/dark/celestia_dark.png"><img alt='celestia' align="left" width='23%' src="https://raw.githubusercontent.com/svetek/.github/main/profile/images/light/celestia_light.png"></picture>
 
